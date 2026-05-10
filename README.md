@@ -9,13 +9,6 @@ in PC
 
 Connection
 <img width="920" height="549" alt="Connection" src="https://github.com/user-attachments/assets/222b5532-14ee-4aa8-8cb5-0c5fbe5f65ee" />
-#PS3
-#Mod Menu
-#RTM
-#Tool
-#Call of Duty
-#Cod Ghosts
-#IW6
-#Ghost
+
 
 
